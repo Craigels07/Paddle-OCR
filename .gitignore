@@ -42,3 +42,12 @@ Thumbs.db
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Data: ignore contents of input and output
+input/**
+!input/.gitkeep
+output/**
+!output/.gitkeep
+
+# Temp folder (ignore entirely)
+temp_inpuit/
