@@ -12,3 +12,8 @@ pymupdf
 
 # For image handling and processing
 pillow>=10.0.0
+
+# For table parsing and Excel export
+pandas
+lxml
+openpyxl
