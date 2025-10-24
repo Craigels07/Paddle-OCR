@@ -1,0 +1,14 @@
+# Core framework
+paddlepaddle>=2.6.0
+
+# General PaddleOCR package, including all optional dependencies
+paddleocr[all]
+
+# The PaddleOCR-VL model specifically requires PyTorch
+torch
+
+# For handling PDF documents
+pymupdf
+
+# For image handling and processing
+pillow>=10.0.0
