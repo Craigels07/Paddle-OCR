@@ -50,4 +50,4 @@ output/**
 !output/.gitkeep
 
 # Temp folder (ignore entirely)
-temp_inpuit/
+temp_input/
